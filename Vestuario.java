@@ -1,5 +1,3 @@
-package com.company;
-
 public class Vestuario extends Produto {
     
     public Vestuario(String nome, double preco) {
